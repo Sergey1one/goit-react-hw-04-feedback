@@ -12,6 +12,9 @@ export const App = () => {
     >
       React homework template
       <b>EMAUX</b>
+      <p>HELLLO 
+        
+      </p>
     </div>
   );
 };
